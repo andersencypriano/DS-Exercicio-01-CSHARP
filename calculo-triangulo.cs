@@ -47,7 +47,7 @@ public class Program
 				Console.WriteLine("2 lados iguais, portanto ele é:  Isósceles");
 				break;
 			case 2:
-				Console.WriteLine("Todos os lados são iguais, porantanto ele é:  Equilátero");
+				Console.WriteLine("Todos os lados são iguais, portanto ele é:  Equilátero");
 				break;
 		};
 		
